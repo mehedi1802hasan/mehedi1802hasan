@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Mehedi Hasan
-#### I am a Frontend Developer(ReactJs)
+#### I am a Frontend Developer
 ![I am a Frontend Stack Developer(React)](https://i.ibb.co/QnxpKL3/Hello-I-m-Mehedi-Hasan-1.png)
 
 I'm a self-taught passionate FrontEnd developer from Bangladesh ☘
