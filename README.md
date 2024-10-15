@@ -4,9 +4,13 @@
 
 I'm a self-taught passionate FrontEnd developer from Bangladesh ☘
 
-### Skills: HTML / CSS / JavaScript / ReactJs / ExpressJs / Mongodb/ Firebase 
+### Skills:
+### Frontend:  HTML / CSS / JavaScript / ReactJs/NextJs/TypeScript/Redux 
+### Backend: ExpressJs/MongoDb
+### App: React Native
 
-- 🌱 I’m currently learning NextJs and Redux 
+
+- 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
 
