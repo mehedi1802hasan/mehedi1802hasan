@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="258" viewBox="0 0 830 258" role="img" aria-label="Experience: Horizon Plus (2025 to now), Niibu Inc (2024-2025), F.A. Creative Firm (2023-2024), B2World (2023)"><title>Experience: Horizon Plus (2025 to now), Niibu Inc (2024-2025), F.A. Creative Firm (2023-2024), B2World (2023)</title>
+<defs><pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="0.9" fill="#fff" opacity="0.07"/></pattern></defs>
+<style>
+  .in{animation:in .6s cubic-bezier(.2,.8,.2,1) both}
+  @keyframes in{from{opacity:0;transform:translateX(-12px)}to{opacity:1;transform:translateX(0)}}
+  .draw{stroke-dasharray:1;animation:draw 1.4s .1s ease-out both}
+  @keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+  .ring{transform-box:fill-box;transform-origin:center;animation:ring 2.2s ease-out infinite}
+  @keyframes ring{0%{opacity:.8;transform:scale(1)}100%{opacity:0;transform:scale(2.6)}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<rect x="0.5" y="0.5" width="829" height="257" rx="18" fill="#0d1117" stroke="#21262d"/>
+<rect x="0.5" y="0.5" width="829" height="257" rx="18" fill="url(#dots)"/>
+<line class="draw" pathLength="1" x1="214" y1="34" x2="214" y2="208" stroke="#30363d" stroke-width="2"/>
+
+<g class="in" style="animation-delay:0.25s">
+  <text x="28" y="38" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" letter-spacing=".5" fill="#A3E635">MAY 2025 → NOW</text>
+  <circle class="ring" cx="214" cy="34" r="6" fill="none" stroke="#A3E635" stroke-width="2"/>
+  <circle cx="214" cy="34" r="6" fill="#A3E635" stroke="#A3E635" stroke-width="2"/>
+  <text x="244" y="35" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#fff">Frontend Developer<tspan fill="#A3E635" dx="8">· Horizon Plus</tspan></text>
+  <text x="244" y="54" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#8b949e">Shopware 6, Shopify &amp; WordPress storefronts for European brands.</text>
+  <rect x="733" y="22" width="69" height="22" rx="11" fill="#A3E635" />
+  <text x="767.5" y="37" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="700" letter-spacing="1" fill="#0d1117">CURRENT</text>
+</g>
+<g class="in" style="animation-delay:0.47s">
+  <text x="28" y="96" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" letter-spacing=".5" fill="#8b949e">JUL 2024 → APR 2025</text>
+  
+  <circle cx="214" cy="92" r="6" fill="#0d1117" stroke="#484f58" stroke-width="2"/>
+  <text x="244" y="93" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#fff">Frontend Developer<tspan fill="#A3E635" dx="8">· Niibu Inc</tspan></text>
+  <text x="244" y="112" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#8b949e">Booking, order &amp; subscription UI for a US salon SaaS platform.</text>
+  <rect x="719" y="80" width="83" height="22" rx="11" fill="#161b22" stroke="#30363d"/>
+  <text x="760.5" y="95" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="700" letter-spacing="1" fill="#8b949e">FULL-TIME</text>
+</g>
+<g class="in" style="animation-delay:0.69s">
+  <text x="28" y="154" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" letter-spacing=".5" fill="#8b949e">DEC 2023 → APR 2024</text>
+  
+  <circle cx="214" cy="150" r="6" fill="#0d1117" stroke="#484f58" stroke-width="2"/>
+  <text x="244" y="151" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#fff">Frontend Developer<tspan fill="#A3E635" dx="8">· F.A. Creative Firm</tspan></text>
+  <text x="244" y="170" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#8b949e">Responsive React e-commerce UI, component optimization, Redux.</text>
+  <rect x="712" y="138" width="90" height="22" rx="11" fill="#161b22" stroke="#30363d"/>
+  <text x="757" y="153" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="700" letter-spacing="1" fill="#8b949e">INTERNSHIP</text>
+</g>
+<g class="in" style="animation-delay:0.91s">
+  <text x="28" y="212" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" letter-spacing=".5" fill="#8b949e">SEP 2023 → NOV 2023</text>
+  
+  <circle cx="214" cy="208" r="6" fill="#0d1117" stroke="#484f58" stroke-width="2"/>
+  <text x="244" y="209" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#fff">Full-stack Developer<tspan fill="#A3E635" dx="8">· B2World</tspan></text>
+  <text x="244" y="228" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#8b949e">MERN stack development.</text>
+  <rect x="712" y="196" width="90" height="22" rx="11" fill="#161b22" stroke="#30363d"/>
+  <text x="757" y="211" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="700" letter-spacing="1" fill="#8b949e">INTERNSHIP</text>
+</g></svg>
