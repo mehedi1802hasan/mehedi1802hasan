@@ -18,31 +18,11 @@
 
 <img src="./assets/h-about.svg" alt="about" width="100%" />
 
-```ts
-export const mehedi = {
-  role: "Frontend Developer @ Horizon Plus",
-  focus: ["E-commerce storefronts", "SaaS dashboards"],
-  stack: ["React", "Next.js", "TypeScript", "Shopware 6"],
-  ships: "fast, accessible UI",
-  markets: ["Europe", "US"],
-  openTo: ["Remote roles", "Freelance projects"],
-} as const;
-```
-
 3 years of building **fast e-commerce storefronts** and **SaaS dashboards** for teams in Europe and the US. I care about what users actually feel: load time, layout stability, and interfaces that look sharp on every device. I use **Claude Code** daily to ship faster, and I review and test every line before it goes live.
 
 <img src="./assets/h-stack.svg" alt="tech stack" width="100%" />
 
 <img src="./assets/tech-stack.svg" alt="Tech stack: HTML, CSS, JavaScript, React, Next.js, TypeScript, React Native, Shopware 6, WordPress, Shopify, Vue.js, Redux Toolkit, Tailwind CSS and more" width="100%" />
-
-<img src="./assets/h-work.svg" alt="featured work" width="100%" />
-
-<p align="center">
-  <a href="https://itsmehedi.vercel.app/"><img src="./assets/project-1.svg" alt="Salon Owner Dashboard" width="49%" /></a>
-  <a href="https://itsmehedi.vercel.app/"><img src="./assets/project-2.svg" alt="BRB Landing Page" width="49%" /></a>
-  <a href="https://itsmehedi.vercel.app/"><img src="./assets/project-3.svg" alt="European Storefronts" width="49%" /></a>
-  <a href="https://itsmehedi.vercel.app/"><img src="./assets/project-4.svg" alt="Media Portal" width="49%" /></a>
-</p>
 
 <img src="./assets/h-experience.svg" alt="experience" width="100%" />
 
@@ -52,11 +32,12 @@ export const mehedi = {
 
 <img src="./assets/workflow.svg" alt="How I work: understand, build, accelerate with AI, verify every line, measure performance" width="100%" />
 
-<img src="./assets/h-certs.svg" alt="certifications" width="100%" />
+<img src="./assets/h-certs.svg" alt="certifications and courses" width="100%" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mehedi1803hasan"><img src="https://img.shields.io/badge/Anthropic-Claude_Code_in_Action-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code in Action" /></a>
   <a href="https://www.linkedin.com/in/mehedi1803hasan"><img src="https://img.shields.io/badge/Anthropic-Intro_to_Model_Context_Protocol-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Introduction to Model Context Protocol" /></a>
+  <img src="https://img.shields.io/badge/Programming_Hero-Complete_Web_Development_%C2%B7_Black_Belt-0D1117?style=for-the-badge&labelColor=1F2937" alt="Programming Hero: Complete Web Development, Black Belt" />
 </p>
 
 <img src="./assets/h-stats.svg" alt="github stats" width="100%" />
@@ -73,18 +54,3 @@ export const mehedi = {
     <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi1802hasan&layout=compact&hide_border=true&bg_color=0D1117&title_color=A3E635&text_color=C9D1D9&langs_count=8" height="165" />
   </picture>
 </p>
-
-<img src="./assets/h-contact.svg" alt="let's work together" width="100%" />
-
-<div align="center">
-
-**Open to remote roles and freelance projects.**
-Need a storefront that loads fast, a dashboard your users enjoy, or a frontend engineer who owns the details?
-
-[![Email me](https://img.shields.io/badge/Email-mehedi1802hasan%40gmail.com-A3E635?style=for-the-badge&logo=gmail&logoColor=black)](mailto:mehedi1802hasan@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View-Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://itsmehedi.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Message_me_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedi1803hasan)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a2e05,100:A3E635&height=120&section=footer" width="100%" alt="" />
-
-</div>
